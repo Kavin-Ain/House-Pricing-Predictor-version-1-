@@ -15,5 +15,5 @@ This simple linear regression model demonstrates the use of scikit-learn to pred
   Install the following libraries using pip:
 
   ```bash
-pip install numpy pandas matplotlib scikit-learn
+  pip install numpy pandas matplotlib scikit-learn
 
